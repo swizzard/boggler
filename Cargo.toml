@@ -1,0 +1,9 @@
+[package]
+name = "boggler"
+version = "0.1.0"
+authors = ["sam raker <sam.raker@gmail.com>"]
+
+[dependencies]
+ascii = "0.8"
+clap = "~2.31"
+rand = "0.5"
